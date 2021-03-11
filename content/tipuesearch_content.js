@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': '進度', 'text': '', 'tags': '', 'url': '進度.html'}, {'title': '3月4號', 'text': '創建新倉儲，並重新建立新的網站 \n', 'tags': '', 'url': '3月4號.html'}]};
+var tipuesearch = {"pages": [{'title': '進度', 'text': '', 'tags': '', 'url': '進度.html'}, {'title': '3月4號', 'text': '創建新倉儲，並重新建立新的網站 \n', 'tags': '', 'url': '3月4號.html'}, {'title': '3月11號', 'text': '了解網際網路管理是甚麼，講解cmsimde是甚麼。 \n 有些符號無法打在近端，會造成程式無法判斷 \n 改版的概念', 'tags': '', 'url': '3月11號.html'}]};
